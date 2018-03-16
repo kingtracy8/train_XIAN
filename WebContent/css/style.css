@@ -1,0 +1,17 @@
+.register{
+	height: 400px;
+	width: 800px;
+	background-image: url(../img/1.png);
+	margin: 0 auto;
+	margin-top: 100px;
+	background-size:cover;
+	
+}
+.login-box{
+	height: 200px;
+	width: 350px;
+	float:right;
+	background-color: white;
+	margin-top: 80px;
+	margin-right:20px;
+}
